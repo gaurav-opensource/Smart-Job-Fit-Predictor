@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+venv/
+*.egg-info/
+
+# React
+build/
